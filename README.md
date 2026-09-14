@@ -1,16 +1,13 @@
-## Hi there 👋
+# FounderAgreement.com
 
-<!--
-**founderagreement/FounderAgreement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FounderAgreement.com is a free browser-based Founders' / Co-Founders' Agreement builder. Create your agreement in your browser with no signup.
 
-Here are some ideas to get you started:
+[Try FounderAgreement.com](https://FounderAgreement.com/?utm_source=dir&utm_medium=ref&utm_campaign=fts&utm_content=github_com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Demo
+
+[Watch the demo on YouTube](https://www.youtube.com/shorts/ZG3tPkkD0Qw)
+
+## Important note
+
+Not legal advice. No signup. Browser-based.
